@@ -1,0 +1,92 @@
+<?xml version="1.0" encoding="utf-8"?>
+<LinearLayout xmlns:android="http://schemas.android.com/apk/res/android"
+    android:layout_width="match_parent"
+    android:layout_height="match_parent"
+    android:orientation="horizontal">
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="1">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="一月" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="二月" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="三月" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="四月" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="五月" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="130dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="六月" />
+        </LinearLayout>
+        <LinearLayout
+            android:layout_width="0dp"
+            android:layout_height="wrap_content"
+            android:orientation="vertical"
+            android:layout_weight="2">
+
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="sdgffdhgdfhgf" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="sdgffdhgdfhgf" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="sdgffdhgdfhgf" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="sdgffdhgdfhgf" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="80dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="sdgffdhgdfhgf" />
+            <TextView
+                android:layout_width="match_parent"
+                android:layout_height="230dp"
+                android:background="@drawable/bg_gv"
+                android:gravity="center"
+                android:text="sdgffdhgdfhgf" />
+        </LinearLayout>
+</LinearLayout>
